@@ -1,0 +1,7 @@
+# Ignorar la carpeta de caché de Python
+__pycache__/
+.vscode
+
+# Ignorar otros archivos temporales o de caché
+*.pyc
+*.pyo
