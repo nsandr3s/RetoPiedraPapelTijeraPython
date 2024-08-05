@@ -1,4 +1,4 @@
-# Reto Piedra Papel Tijera
+# RetoPiedraPapelTijera
 
 ## Descripción
 
